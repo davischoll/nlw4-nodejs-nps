@@ -22,7 +22,9 @@ $ git clone https://github.com/davischoll/nlw4-nodejs-nps
 $ yarn
 $ yarn dev
 ```
-O servidor iniciará na porta 3333 e você pode acessar pelo seu navegador em http://localhost:3333
+O servidor iniciará na porta 3333 e você pode acessar pelo seu navegador em http://localhost:3333.<br/>
+Para criar, testar as requisições e visualizar as respostas do servidor, foi utilizado o [Insomnia](https://insomnia.rest/download/).<br/>
+E para consultar e manipular as tabelas do banco de dados, foi utilizado o editor de SQL [Beekeeper Studio](https://www.beekeeperstudio.io/).
 
 ## Tecnologias Utilizadas
   Algumas das tecnologias utilizadas durante o desenvolvimento da API:
